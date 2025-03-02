@@ -63,6 +63,7 @@ public class Main {
         customers.add(new Customer("C002", "Mr Rafi Amin", "+88014825644"));
         customers.add(new Customer("C003", "Mr. Sabbir Ahmed", "+88018648254"));
         customers.add(new Customer("C004", "Mr. Shafikul Ahammed", "+8801975855"));
+        customers.add(new Customer("C005", "Mr. Sharafat Hossain", "+8801787847"));
     }
 
     // Print each customer details
